@@ -90,7 +90,7 @@ Load the forecasting notebook and run all cells to view the analysis & predictio
 
 ---
 
-##📌 Key Results / Insights
+## 📌 Key Results / Insights
 
 You can highlight:
 
@@ -115,9 +115,9 @@ Month      Forecast
 2025‑01    5,230
 2025‑02    5,875
 ```
-...
+---
 
-##📈 Learning Outcomes
+## 📈 Learning Outcomes
 
 ✔ Applied time series analysis and forecasting
 ✔ Learnt model building with Prophet/ARIMA
